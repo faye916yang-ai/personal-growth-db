@@ -34,11 +34,13 @@
 
 ## 安装
 
-**最简单的方法**：把下面这段话发给你的 AI 工具。
+**最简单的方法**：把下面这段话整段复制，发给你的 AI 工具，下载、安装、开始搭建一次完成。
 
 ```
-请把 https://github.com/faye916yang-ai/personal-growth-db 下载下来，安装成你的 Skill。
-如果你不支持 Skill，就直接读里面的 SKILL.md，照着做。
+请帮我安装并使用“个人成长数据库” Skill：
+1. 从 https://github.com/faye916yang-ai/personal-growth-db 下载（公开仓库，不需要登录）
+2. 安装成你的 Skill；如果你不支持 Skill，就把它下载到电脑上，直接读里面的 SKILL.md
+3. 装好后告诉我一声，然后按 SKILL.md 的流程，帮我搭建个人成长数据库
 ```
 
 **打不开 GitHub、或者拿到的是压缩包**：把压缩包下载到电脑，再把这句话发给你的 AI：
